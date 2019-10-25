@@ -17,7 +17,7 @@ class CreateTraumaticsTable extends Migration
             $table->bigIncrements('id');
             $table->string('name');
             $table->string('email');
-            $table->enum('gender', ['male', 'female']);
+            $table->enum('gender', ['Masculino', 'Femenino']);
             $table->string('occupation');
             $table->string('type_of_contract');
                 

@@ -25,11 +25,11 @@ class TraumaticController extends Controller
 
         if($request->question_1 == 'no') {
             $survey = Traumatic::create($request->all());
-            $survey->status = 'No require atención clinica';
+            $survey->status = 'No requiere atención clinica';
             $survey->save();
-        }else {
+        }elseif($request->question_1 == 'yes') {
             $survey = Traumatic::create($request->all());
-            $survey->status = 'Require atención clinica';
+            $survey->status = 'Requiere atención clinica';
             $survey->save();
         }
 

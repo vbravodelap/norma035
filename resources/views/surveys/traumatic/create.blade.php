@@ -38,8 +38,8 @@
                         <div class="col-md-2 form-group">
                             <select name="gender" class="form-control" required>
                                 <option value="">Selecciona un sexo</option>
-                                <option value="male">Masculino</option>
-                                <option value="female">Femenino</option>
+                                <option value="Masculino">Masculino</option>
+                                <option value="Femenino">Femenino</option>
                             </select>
                         </div>
 

@@ -31,4 +31,8 @@ class Traumatic extends Model
         'question_15',
         
     ];
+
+    public function user(){
+        return $this->belongsTo(User::class);
+    }
 }
