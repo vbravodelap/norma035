@@ -137,7 +137,7 @@ return [
         ],
         [
             'text'        => 'Factores de riesgo',
-            'url'         => 'admin/pages',
+            'url'         => 'risk/create',
         ],
         [
             'text'        => 'Evaluación del entorno',

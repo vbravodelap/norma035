@@ -21,6 +21,10 @@ Route::get('/home', function() {
     return view('home');
 })->name('home')->middleware('auth');
 
+// Traumatic survey
 Route::get('traumatic/create', 'TraumaticController@create')->name('traumatic.create');
 Route::get('traumatic/index', 'TraumaticController@index')->name('traumatic.index');
 Route::post('traumatic/store', 'TraumaticController@store')->name('traumatic.store');
+
+// Risk survey
+Route::get('risk/create', 'RiskController@create')->name('risk.create');
