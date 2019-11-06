@@ -28,3 +28,4 @@ Route::post('traumatic/store', 'TraumaticController@store')->name('traumatic.sto
 
 // Risk survey
 Route::get('risk/create', 'RiskController@create')->name('risk.create');
+Route::post('risk/store', 'RiskController@store')->name('risk.store');
