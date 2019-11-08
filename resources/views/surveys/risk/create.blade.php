@@ -8,6 +8,7 @@
 
 @section('content')
     <div class="col-md-12">
+        @include('partials.message')
         <div class="box box-primary">
             <form action="{{route('risk.store')}}" method="POST">
                 @csrf

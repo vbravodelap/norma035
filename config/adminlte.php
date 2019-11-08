@@ -148,6 +148,10 @@ return [
             'text'        => 'Resultados A. Traumaticos',
             'url'         => 'traumatic/index',
         ],
+        [
+            'text'        => 'Resultados F. Riesgo',
+            'url'         => 'risk/index',
+        ],
     ],
 
     /*
@@ -257,5 +261,16 @@ return [
                 ],
             ],
         ],
+        [
+            'name'      => 'Axios',
+            'active'    => true,
+            'files' => [
+                [
+                    'type'  => 'js',
+                    'asset'    => false,
+                    'location'  => '//cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.js'
+                ]
+            ]
+        ]
     ],
 ];

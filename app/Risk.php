@@ -60,5 +60,17 @@ class Risk extends Model
         'question_44',
         'question_45',
         'question_46',
+        'ambiente_trabajo',
+        'factores_propios',
+        'organizacion_tiempo',
+        'liderazgo_trabajo',
+        'condiciones_ambiente',
+        'carga_trabajo',
+        'jornada_trabajo',
+        'trabajo_familia',
+        'falta_control',
+        'liderazgo',
+        'relaciones_trabajo',
+        'violencia'
     ];
 }
