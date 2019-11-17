@@ -105,7 +105,7 @@ class RiskController extends Controller
         $todasLasPreguntas = [];
 
         for($i=0; $i<=46; $i++) {
-            array_push($todasLasPreguntas, 'question_'.$i);
+            array_splice($mergeArray, 'question_'.$i);
         }
 
         $respuestas = $request->only($todasLasPreguntas);
@@ -129,7 +129,7 @@ class RiskController extends Controller
         $calification = 0;
 
         foreach($respuestas as $respuesta) {
-            $calification += $respuesta;
+            $calification += $mergeArray;
         }
 
         return $calification;
@@ -165,7 +165,7 @@ class RiskController extends Controller
         $calification = 0;
 
         foreach($respuestas as $respuesta) {
-            $calification += $respuesta;
+            $calification += $mergeArray;
         }
 
         return $calification;
