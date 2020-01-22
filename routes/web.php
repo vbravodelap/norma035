@@ -33,3 +33,6 @@ Route::get('risk/index', 'RiskController@index')->name('risk.index');
 Route::get('risk/detail/{id}', 'RiskController@detail')->name('risk.detail');
 Route::get('risk/getDominio/{id}', 'RiskController@getDominio')->name('risk.dominio');
 Route::get('risk/getCategoria/{id}', 'RiskController@getCategoria')->name('risk.categoria');
+
+// Environment
+Route::get('environment/create', 'EnvironmentController@create')->name('environment.create');

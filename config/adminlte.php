@@ -141,7 +141,7 @@ return [
         ],
         [
             'text'        => 'Evaluación del entorno',
-            'url'         => 'admin/pages',
+            'url'         => 'environment/create',
         ],
         ['header' => 'RESULTADOS'],
         [

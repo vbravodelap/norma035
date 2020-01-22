@@ -43,6 +43,10 @@ class CreateEnvironmentsTable extends Migration
             $table->float('violencia')->nullable();
             $table->float('reconocimiento_desempeño')->nullable();
             $table->float('insuficiente_sentido')->nullable();
+
+            for($i=1; $i<=72; $i++){
+                $table->string('question_'.$i);
+            }
             
             $table->timestamps();
         });
