@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateRisksTable extends Migration
+class CreateEnvironmentsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,7 +13,7 @@ class CreateRisksTable extends Migration
      */
     public function up()
     {
-        Schema::create('risks', function (Blueprint $table) {
+        Schema::create('environments', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
             $table->string('email');
@@ -24,13 +24,14 @@ class CreateRisksTable extends Migration
             $table->unsignedBigInteger('user_id');
             $table->foreign('user_id')->references('id')->on('users');
             $table->float('calification')->nullable();
-            
+
             // Categorias
             $table->float('ambiente_trabajo')->nullable();
             $table->float('factores_propios')->nullable();
             $table->float('organizacion_tiempo')->nullable();
             $table->float('liderazgo_trabajo')->nullable();
-            
+            $table->float('entorno_organizacional')->nullable();
+
             // Dominio
             $table->float('condiciones_ambiente')->nullable();
             $table->float('carga_trabajo')->nullable();
@@ -43,9 +44,6 @@ class CreateRisksTable extends Migration
             $table->float('reconocimiento_desempeño')->nullable();
             $table->float('insuficiente_sentido')->nullable();
             
-            for($i=1; $i<=46; $i++){
-                $table->string('question_'.$i);
-            }
             $table->timestamps();
         });
     }
@@ -57,6 +55,6 @@ class CreateRisksTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('risks');
+        Schema::dropIfExists('environments');
     }
 }
