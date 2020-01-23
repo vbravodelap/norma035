@@ -72,7 +72,7 @@
                         <tbody>
                             <tr>
                                 <td>
-                                 <span class="text-bold">I.- Acontecimiento traumático severo</span>   
+                                 <span class="text-bold bg-primary">I.- Acontecimiento traumático severo</span>   
 
                                     <ul>
                                         <li>
@@ -113,7 +113,7 @@
 
                             <tr>
                                 <td>
-                                   <span class="text-bold">II.- Recuerdos persistentes sobre el acontecimiento (durante el último mes):</span> 
+                                   <span class="text-bold bg-primary">II.- Recuerdos persistentes sobre el acontecimiento (durante el último mes):</span> 
                                 </td>
                             </tr>
 
@@ -151,7 +151,7 @@
 
                             <tr>
                                 <td>
-                                  <span class="text-bold">III.- Esfuerzo por evitar circunstancias parecidas o asociadas al acontecimiento (durante el último mes):</span>  		
+                                  <span class="text-bold bg-primary">III.- Esfuerzo por evitar circunstancias parecidas o asociadas al acontecimiento (durante el último mes):</span>  		
                                 </td>
                             </tr>
 
@@ -269,7 +269,7 @@
 
                             <tr>
                                 <td>
-                                    <span class="text-bold">IV. Afectación (durante el último mes):</span>  		
+                                    <span class="text-bold bg-primary">IV. Afectación (durante el último mes):</span>  		
                                 </td>
                             </tr>
 
