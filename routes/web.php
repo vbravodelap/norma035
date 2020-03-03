@@ -36,3 +36,4 @@ Route::get('risk/getCategoria/{id}', 'RiskController@getCategoria')->name('risk.
 
 // Environment
 Route::get('environment/create', 'EnvironmentController@create')->name('environment.create');
+Route::post('environment/store', 'EnvironmentController@store')->name('environment.store');

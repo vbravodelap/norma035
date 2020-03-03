@@ -10,7 +10,7 @@
     <div class="col-md-12">
         @include('partials.message')
         <div class="box box-primary">
-            <form action="{{route('risk.store')}}" method="POST">
+            <form action="{{route('environment.store')}}" method="POST">
                 @csrf
                 <div class="box-header">
                     <h3 class="text-center text-bold">
