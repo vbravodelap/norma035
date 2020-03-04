@@ -2,13 +2,18 @@
 
 namespace App\Http\Controllers;
 
+use App\Company;
 use App\Environment;
 use Illuminate\Http\Request;
 
 class EnvironmentController extends Controller
 {
     public function create() {
-        return view('surveys.environment.create');
+        $companies = Company::all();
+
+        return view('surveys.environment.create', [
+            'companies' => $companies
+        ]);
     }
 
     public function store(Request $request){
@@ -94,6 +99,7 @@ class EnvironmentController extends Controller
         $survey->gender = $request->gender;
         $survey->occupation = $request->occupation;
         $survey->type_of_contract = $request->type_of_contract;
+        $survey->company_id = $request->company;
         
         $survey->calification = $this->getCalification($request);
 

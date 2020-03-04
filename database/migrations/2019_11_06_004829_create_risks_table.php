@@ -23,6 +23,10 @@ class CreateRisksTable extends Migration
                 
             $table->unsignedBigInteger('user_id');
             $table->foreign('user_id')->references('id')->on('users');
+
+            $table->unsignedBigInteger('company_id');
+            $table->foreign('company_id')->references('id')->on('companies');
+
             $table->float('calification')->nullable();
             
             // Categorias

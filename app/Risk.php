@@ -13,6 +13,7 @@ class Risk extends Model
         'occupation',
         'type_of_contract',
         'user_id',
+        'company_id',
         'calification',
         'question_1',
         'question_2',
@@ -73,4 +74,13 @@ class Risk extends Model
         'relaciones_trabajo',
         'violencia'
     ];
+
+    public function user(){
+        return $this->belongsTo(User::class);
+    }
+
+    public function company(){
+        return $this->belongsTo(Company::class);
+    }
+
 }

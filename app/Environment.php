@@ -13,6 +13,7 @@ class Environment extends Model
         'occupation',
         'type_of_contract',
         'user_id',
+        'company_id',
         'calification',
         'question_1',
         'question_2',
@@ -60,6 +61,32 @@ class Environment extends Model
         'question_44',
         'question_45',
         'question_46',
+        'question_47',
+        'question_48',
+        'question_49',
+        'question_50',
+        'question_51',
+        'question_51',
+        'question_53',
+        'question_54',
+        'question_54',
+        'question_56',
+        'question_57',
+        'question_58',
+        'question_59',
+        'question_60',
+        'question_61',
+        'question_62',
+        'question_63',
+        'question_64',
+        'question_65',
+        'question_66',
+        'question_67',
+        'question_68',
+        'question_69',
+        'question_70',
+        'question_71',
+        'question_72',
         'ambiente_trabajo',
         'factores_propios',
         'organizacion_tiempo',
@@ -73,4 +100,14 @@ class Environment extends Model
         'relaciones_trabajo',
         'violencia'
     ];
+
+    public function user(){
+        return $this->belongsTo(User::class);
+    }
+
+    public function company(){
+        return $this->belongsTo(Company::class);
+    }
 }
+
+

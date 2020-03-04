@@ -41,7 +41,7 @@
                                 </td>
             
                                 <td>
-                                    {{ $item->user->name }}
+                                    {{ $item->company->name }}
                                 </td>
             
                                 @if ($item->status == 'Requiere atención clinica')

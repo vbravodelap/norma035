@@ -22,11 +22,11 @@
                     </h4>
 
                     <div class="row form-group" style="margin-top: 70px;">
-                        <div class="col-md-3 form-group">
+                        <div class="col-md-2 form-group">
                             <input type="text" name="name" class="form-control" placeholder="Nombre completo" required>
                         </div>
 
-                        <div class="col-md-3 form-group">
+                        <div class="col-md-2 form-group">
                             <input type="email" name="email" class="form-control" placeholder="Correo electronico" required>
                         </div>
 
@@ -43,8 +43,17 @@
                         </div>
 
                         <div class="col-md-2 form-group">
+                            <select name="company_id" class="form-control" required>
+                                <option value="">Seleciona empresa</option>
+                                @foreach ($companies as $company)
+                                    <option value="{{$company->id}}">{{$company->name}}</option>
+                                @endforeach
+                            </select>
+                        </div>
+
+                        <div class="col-md-2 form-group">
                             <select name="type_of_contract" class="form-control">
-                                <option value="">Selecciona tipo de contrato</option>
+                                <option value="">Selecciona contrato</option>
                                 <option value="Indefinido">Indefinido</option>
                                 <option value="Definido">Definido</option>
                             </select>

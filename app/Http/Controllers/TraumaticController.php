@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Company;
 use App\Traumatic;
 use Illuminate\Http\Request;
 
@@ -18,7 +19,12 @@ class TraumaticController extends Controller
     }
 
     public function create(){
-        return view('surveys.traumatic.create');
+
+        $companies = Company::all();
+
+        return view('surveys.traumatic.create', [
+            'companies' => $companies
+        ]);
     }
 
     public function store(Request $request){

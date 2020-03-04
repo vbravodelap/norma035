@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Company;
 use App\Risk;
 use Illuminate\Http\Request;
 
@@ -16,7 +17,11 @@ class RiskController extends Controller
     }
 
     public function create(){
-        return view('surveys.risk.create');
+        $companies = Company::all();
+
+        return view('surveys.risk.create', [
+            'companies' => $companies
+        ]);
     }
 
     public function store(Request $request) {
