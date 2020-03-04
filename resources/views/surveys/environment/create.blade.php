@@ -12,6 +12,7 @@
         <div class="box box-primary">
             <form action="{{route('environment.store')}}" method="POST">
                 @csrf
+                <input type="hidden" name="user_id" value="{{\Auth::user()->id}}">
                 <div class="box-header">
                     <h3 class="text-center text-bold">
                         CUESTIONARIO PARA IDENTIFICAR LOS FACTORES DE RIESGO PSICOSOCIAL EN LOS CENTROS DE TRABAJO

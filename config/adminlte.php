@@ -132,10 +132,6 @@ return [
             'url'         => 'traumatic/create',
         ],
         [
-            'text'        => 'Carga de trabajo',
-            'url'         => 'admin/pages',
-        ],
-        [
             'text'        => 'Factores de riesgo',
             'url'         => 'risk/create',
         ],
@@ -151,6 +147,10 @@ return [
         [
             'text'        => 'Resultados F. Riesgo',
             'url'         => 'risk/index',
+        ],
+        [
+            'text'        => 'Resultados E. Entorno',
+            'url'         => 'environment/index',
         ],
     ],
 
