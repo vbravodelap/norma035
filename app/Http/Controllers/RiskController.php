@@ -9,10 +9,17 @@ use Illuminate\Http\Request;
 class RiskController extends Controller
 {
 
-    public function index() {
-        $riskSurveys = Risk::all();
+    public function index(Request $request) {
+
+        $riskSurveys = Risk::orderBy('id', 'asc')
+                     ->company($request->company)
+                     ->paginate(50);
+
+        $companies = Company::all();
+
         return view('surveys.risk.index', [
-            'riskSurveys' => $riskSurveys
+            'riskSurveys' => $riskSurveys,
+            'companies'   => $companies
         ]);
     }
 

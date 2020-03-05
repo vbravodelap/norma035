@@ -83,4 +83,9 @@ class Risk extends Model
         return $this->belongsTo(Company::class);
     }
 
+    public function scopeCompany($query, $company){
+        if($company)
+            return $query->where('company_id', $company);
+    }
+
 }
