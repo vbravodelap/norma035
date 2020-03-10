@@ -16,7 +16,7 @@
                         <th>Nombre</th>
                         <th>Correo</th>
                         <th>Calificación</th>
-                        <th class="col-md-1"></th>
+                        <th></th>
                     </thead>
 
                     <tbody>
