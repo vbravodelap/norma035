@@ -102,15 +102,7 @@
                                 <td class="text-center">1</td>
                                 <td>El espacio donde trabajo me permite realizar mis actividades de manera segura e higiénica.</td>
                                 <td class="text-center">
-                                    <input id="question_1" type="radio" name="question_1" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_1" type="radio" name="question_1" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_1" type="radio" name="question_1" value="2">
+                                    <input id="question_1" type="radio" name="question_1" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -118,7 +110,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_1" type="radio" name="question_1" value="0">
+                                    <input id="question_1" type="radio" name="question_1" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_1" type="radio" name="question_1" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_1" type="radio" name="question_1" value="4">
                                 </td>
                             </tr>
 
@@ -174,15 +174,7 @@
                                 <td class="text-center">4</td>
                                 <td>Considero que en mi trabajo se aplican las normas de seguridad y salud en el trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_4" type="radio" name="question_4" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_4" type="radio" name="question_4" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_4" type="radio" name="question_4" value="2">
+                                    <input id="question_4" type="radio" name="question_4" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -190,7 +182,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_4" type="radio" name="question_4" value="0">
+                                    <input id="question_4" type="radio" name="question_4" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_4" type="radio" name="question_4" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_4" type="radio" name="question_4" value="4">
                                 </td>
                             </tr>
 
@@ -688,15 +688,7 @@
                                 <td class="text-center">23</td>
                                 <td>Mi trabajo permite que desarrolle nuevas habilidades.</td>
                                 <td class="text-center">
-                                    <input id="question_23" type="radio" name="question_23" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_23" type="radio" name="question_23" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_23" type="radio" name="question_23" value="2">
+                                    <input id="question_23" type="radio" name="question_23" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -704,7 +696,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_23" type="radio" name="question_23" value="0">
+                                    <input id="question_23" type="radio" name="question_23" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_23" type="radio" name="question_23" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_23" type="radio" name="question_23" value="4">
                                 </td>
                             </tr>
 
@@ -712,15 +712,7 @@
                                 <td class="text-center">24</td>
                                 <td>En mi trabajo puedo aspirar a un mejor puesto.</td>
                                 <td class="text-center">
-                                    <input id="question_24" type="radio" name="question_24" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_24" type="radio" name="question_24" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_24" type="radio" name="question_24" value="2">
+                                    <input id="question_24" type="radio" name="question_24" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -728,7 +720,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_24" type="radio" name="question_24" value="0">
+                                    <input id="question_24" type="radio" name="question_24" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_24" type="radio" name="question_24" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_24" type="radio" name="question_24" value="4">
                                 </td>
                             </tr>
 
@@ -736,15 +736,7 @@
                                 <td class="text-center">25</td>
                                 <td>Durante mi jornada de trabajo puedo tomar pausas cuando las necesito.</td>
                                 <td class="text-center">
-                                    <input id="question_25" type="radio" name="question_25" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_25" type="radio" name="question_25" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_25" type="radio" name="question_25" value="2">
+                                    <input id="question_25" type="radio" name="question_25" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -752,7 +744,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_25" type="radio" name="question_25" value="0">
+                                    <input id="question_25" type="radio" name="question_25" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_25" type="radio" name="question_25" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_25" type="radio" name="question_25" value="4">
                                 </td>
                             </tr>
 
@@ -760,15 +760,7 @@
                                 <td class="text-center">26</td>
                                 <td>Puedo decidir cuánto trabajo realizo durante la jornada laboral.</td>
                                 <td class="text-center">
-                                    <input id="question_26" type="radio" name="question_26" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_26" type="radio" name="question_26" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_26" type="radio" name="question_26" value="2">
+                                    <input id="question_26" type="radio" name="question_26" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -776,7 +768,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_26" type="radio" name="question_26" value="0">
+                                    <input id="question_26" type="radio" name="question_26" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_26" type="radio" name="question_26" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_26" type="radio" name="question_26" value="4">
                                 </td>
                             </tr>
 
@@ -784,15 +784,7 @@
                                 <td class="text-center">27</td>
                                 <td>Puedo decidir la velocidad a la que realizo mis actividades en mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_27" type="radio" name="question_27" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_27" type="radio" name="question_27" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_27" type="radio" name="question_27" value="2">
+                                    <input id="question_27" type="radio" name="question_27" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -800,7 +792,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_27" type="radio" name="question_27" value="0">
+                                    <input id="question_27" type="radio" name="question_27" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_27" type="radio" name="question_27" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_27" type="radio" name="question_27" value="4">
                                 </td>
                             </tr>
 
@@ -808,15 +808,7 @@
                                 <td class="text-center">28</td>
                                 <td>Puedo cambiar el orden de las actividades que realizo en mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_28" type="radio" name="question_28" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_28" type="radio" name="question_28" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_28" type="radio" name="question_28" value="2">
+                                    <input id="question_28" type="radio" name="question_28" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -824,7 +816,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_28" type="radio" name="question_28" value="0">
+                                    <input id="question_28" type="radio" name="question_28" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_28" type="radio" name="question_28" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_28" type="radio" name="question_28" value="4">
                                 </td>
                             </tr>
 
@@ -843,15 +843,7 @@
                                 <td class="text-center">29</td>
                                 <td>Los cambios que se presentan en mi trabajo dificultan mi labor.</td>
                                 <td class="text-center">
-                                    <input id="question_29" type="radio" name="question_29" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_29" type="radio" name="question_29" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_29" type="radio" name="question_29" value="2">
+                                    <input id="question_29" type="radio" name="question_29" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -859,7 +851,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_29" type="radio" name="question_29" value="0">
+                                    <input id="question_29" type="radio" name="question_29" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_29" type="radio" name="question_29" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_29" type="radio" name="question_29" value="4">
                                 </td>
                             </tr>
 
@@ -867,15 +867,7 @@
                                 <td class="text-center">30</td>
                                 <td>Cuando se presentan cambios en mi trabajo se tienen en cuenta mis ideas o aportaciones.</td>
                                 <td class="text-center">
-                                    <input id="question_30" type="radio" name="question_30" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_30" type="radio" name="question_30" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_30" type="radio" name="question_30" value="2">
+                                    <input id="question_30" type="radio" name="question_30" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -883,7 +875,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_30" type="radio" name="question_30" value="0">
+                                    <input id="question_30" type="radio" name="question_30" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_30" type="radio" name="question_30" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_30" type="radio" name="question_30" value="4">
                                 </td>
                             </tr>
 
@@ -902,15 +902,7 @@
                                 <td class="text-center">31</td>
                                 <td>Me informan con claridad cuáles son mis funciones.</td>
                                 <td class="text-center">
-                                    <input id="question_31" type="radio" name="question_31" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_31" type="radio" name="question_31" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_31" type="radio" name="question_31" value="2">
+                                    <input id="question_31" type="radio" name="question_31" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -918,7 +910,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_31" type="radio" name="question_31" value="0">
+                                    <input id="question_31" type="radio" name="question_31" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_31" type="radio" name="question_31" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_31" type="radio" name="question_31" value="4">
                                 </td>
                             </tr>
 
@@ -926,15 +926,7 @@
                                 <td class="text-center">32</td>
                                 <td>Me explican claramente los resultados que debo obtener en mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_32" type="radio" name="question_32" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_32" type="radio" name="question_32" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_32" type="radio" name="question_32" value="2">
+                                    <input id="question_32" type="radio" name="question_32" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -942,7 +934,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_32" type="radio" name="question_32" value="0">
+                                    <input id="question_32" type="radio" name="question_32" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_32" type="radio" name="question_32" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_32" type="radio" name="question_32" value="4">
                                 </td>
                             </tr>
 
@@ -950,15 +950,7 @@
                                 <td class="text-center">33</td>
                                 <td>Me explican claramente los objetivos de mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_33" type="radio" name="question_33" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_33" type="radio" name="question_33" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_33" type="radio" name="question_33" value="2">
+                                    <input id="question_33" type="radio" name="question_33" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -966,7 +958,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_33" type="radio" name="question_33" value="0">
+                                    <input id="question_33" type="radio" name="question_33" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_33" type="radio" name="question_33" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_33" type="radio" name="question_33" value="4">
                                 </td>
                             </tr>
 
@@ -974,15 +974,7 @@
                                 <td class="text-center">34</td>
                                 <td>Me informan con quién puedo resolver problemas o asuntos de trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_34" type="radio" name="question_34" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_34" type="radio" name="question_34" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_34" type="radio" name="question_34" value="2">
+                                    <input id="question_34" type="radio" name="question_34" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -990,7 +982,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_34" type="radio" name="question_34" value="0">
+                                    <input id="question_34" type="radio" name="question_34" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_34" type="radio" name="question_34" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_34" type="radio" name="question_34" value="4">
                                 </td>
                             </tr>
 
@@ -998,15 +998,7 @@
                                 <td class="text-center">35</td>
                                 <td>Me permiten asistir a capacitaciones relacionadas con mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_35" type="radio" name="question_35" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_35" type="radio" name="question_35" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_35" type="radio" name="question_35" value="2">
+                                    <input id="question_35" type="radio" name="question_35" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1014,7 +1006,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_35" type="radio" name="question_35" value="0">
+                                    <input id="question_35" type="radio" name="question_35" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_35" type="radio" name="question_35" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_35" type="radio" name="question_35" value="4">
                                 </td>
                             </tr>
 
@@ -1022,15 +1022,7 @@
                                 <td class="text-center">36</td>
                                 <td>Recibo capacitación útil para hacer mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_36" type="radio" name="question_36" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_36" type="radio" name="question_36" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_36" type="radio" name="question_36" value="2">
+                                    <input id="question_36" type="radio" name="question_36" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1038,7 +1030,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_36" type="radio" name="question_36" value="0">
+                                    <input id="question_36" type="radio" name="question_36" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_36" type="radio" name="question_36" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_36" type="radio" name="question_36" value="4">
                                 </td>
                             </tr>
 
@@ -1058,15 +1058,7 @@
                                 <td class="text-center">37</td>
                                 <td>Mi jefe ayuda a organizar mejor el trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_37" type="radio" name="question_37" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_37" type="radio" name="question_37" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_37" type="radio" name="question_37" value="2">
+                                    <input id="question_37" type="radio" name="question_37" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1074,7 +1066,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_37" type="radio" name="question_37" value="0">
+                                    <input id="question_37" type="radio" name="question_37" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_37" type="radio" name="question_37" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_37" type="radio" name="question_37" value="4">
                                 </td>
                             </tr>
 
@@ -1082,15 +1082,7 @@
                                 <td class="text-center">38</td>
                                 <td>Mi jefe tiene en cuenta mis puntos de vista y opiniones.</td>
                                 <td class="text-center">
-                                    <input id="question_38" type="radio" name="question_38" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_38" type="radio" name="question_38" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_38" type="radio" name="question_38" value="2">
+                                    <input id="question_38" type="radio" name="question_38" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1098,7 +1090,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_38" type="radio" name="question_38" value="0">
+                                    <input id="question_38" type="radio" name="question_38" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_38" type="radio" name="question_38" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_38" type="radio" name="question_38" value="4">
                                 </td>
                             </tr>
 
@@ -1106,15 +1106,7 @@
                                 <td class="text-center">39</td>
                                 <td>Mi jefe me comunica a tiempo la información relacionada con el trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_39" type="radio" name="question_39" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_39" type="radio" name="question_39" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_39" type="radio" name="question_39" value="2">
+                                    <input id="question_39" type="radio" name="question_39" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1122,7 +1114,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_39" type="radio" name="question_39" value="0">
+                                    <input id="question_39" type="radio" name="question_39" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_39" type="radio" name="question_39" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_39" type="radio" name="question_39" value="4">
                                 </td>
                             </tr>
 
@@ -1130,15 +1130,7 @@
                                 <td class="text-center">40</td>
                                 <td>La orientación que me da mi jefe me ayuda a realizar mejor mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_40" type="radio" name="question_40" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_40" type="radio" name="question_40" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_40" type="radio" name="question_40" value="2">
+                                    <input id="question_40" type="radio" name="question_40" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1146,7 +1138,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_40" type="radio" name="question_40" value="0">
+                                    <input id="question_40" type="radio" name="question_40" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_40" type="radio" name="question_40" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_40" type="radio" name="question_40" value="4">
                                 </td>
                             </tr>
 
@@ -1154,15 +1154,7 @@
                                 <td class="text-center">41</td>
                                 <td>Mi jefe ayuda a solucionar los problemas que se presentan en el trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_41" type="radio" name="question_41" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_41" type="radio" name="question_41" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_41" type="radio" name="question_41" value="2">
+                                    <input id="question_41" type="radio" name="question_41" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1170,7 +1162,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_41" type="radio" name="question_41" value="0">
+                                    <input id="question_41" type="radio" name="question_41" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_41" type="radio" name="question_41" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_41" type="radio" name="question_41" value="4">
                                 </td>
                             </tr>
 
@@ -1190,15 +1190,7 @@
                                 <td class="text-center">42</td>
                                 <td>Puedo confiar en mis compañeros de trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_42" type="radio" name="question_42" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_42" type="radio" name="question_42" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_42" type="radio" name="question_42" value="2">
+                                    <input id="question_42" type="radio" name="question_42" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1206,7 +1198,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_42" type="radio" name="question_42" value="0">
+                                    <input id="question_42" type="radio" name="question_42" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_42" type="radio" name="question_42" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_42" type="radio" name="question_42" value="4">
                                 </td>
                             </tr>
 
@@ -1214,15 +1214,7 @@
                                 <td class="text-center">43</td>
                                 <td>Entre compañeros solucionamos los problemas de trabajo de forma respetuosa.</td>
                                 <td class="text-center">
-                                    <input id="question_43" type="radio" name="question_43" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_43" type="radio" name="question_43" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_43" type="radio" name="question_43" value="2">
+                                    <input id="question_43" type="radio" name="question_43" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1230,7 +1222,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_43" type="radio" name="question_43" value="0">
+                                    <input id="question_43" type="radio" name="question_43" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_43" type="radio" name="question_43" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_43" type="radio" name="question_43" value="4">
                                 </td>
                             </tr>
 
@@ -1238,15 +1238,7 @@
                                 <td class="text-center">44</td>
                                 <td>En mi trabajo me hacen sentir parte del grupo.</td>
                                 <td class="text-center">
-                                    <input id="question_44" type="radio" name="question_44" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_44" type="radio" name="question_44" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_44" type="radio" name="question_44" value="2">
+                                    <input id="question_44" type="radio" name="question_44" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1254,7 +1246,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_44" type="radio" name="question_44" value="0">
+                                    <input id="question_44" type="radio" name="question_44" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_44" type="radio" name="question_44" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_44" type="radio" name="question_44" value="4">
                                 </td>
                             </tr>
 
@@ -1262,15 +1262,7 @@
                                 <td class="text-center">45</td>
                                 <td>Cuando tenemos que realizar trabajo de equipo los compañeros colaboran.</td>
                                 <td class="text-center">
-                                    <input id="question_45" type="radio" name="question_45" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_45" type="radio" name="question_45" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_45" type="radio" name="question_45" value="2">
+                                    <input id="question_45" type="radio" name="question_45" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1278,7 +1270,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_45" type="radio" name="question_45" value="0">
+                                    <input id="question_45" type="radio" name="question_45" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_45" type="radio" name="question_45" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_45" type="radio" name="question_45" value="4">
                                 </td>
                             </tr>
 
@@ -1286,15 +1286,7 @@
                                 <td class="text-center">46</td>
                                 <td>Mis compañeros de trabajo me ayudan cuando tengo dificultades.</td>
                                 <td class="text-center">
-                                    <input id="question_46" type="radio" name="question_46" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_46" type="radio" name="question_46" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_46" type="radio" name="question_46" value="2">
+                                    <input id="question_46" type="radio" name="question_46" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1302,7 +1294,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_46" type="radio" name="question_46" value="0">
+                                    <input id="question_46" type="radio" name="question_46" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_46" type="radio" name="question_46" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_46" type="radio" name="question_46" value="4">
                                 </td>
                             </tr>
 
@@ -1322,15 +1322,7 @@
                                 <td class="text-center">47</td>
                                 <td>Me informan sobre lo que hago bien en mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_47" type="radio" name="question_47" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_47" type="radio" name="question_47" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_47" type="radio" name="question_47" value="2">
+                                    <input id="question_47" type="radio" name="question_47" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1338,7 +1330,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_47" type="radio" name="question_47" value="0">
+                                    <input id="question_47" type="radio" name="question_47" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_47" type="radio" name="question_47" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_47" type="radio" name="question_47" value="4">
                                 </td>
                             </tr>
 
@@ -1346,15 +1346,7 @@
                                 <td class="text-center">48</td>
                                 <td>La forma como evalúan mi trabajo en mi centro de trabajo me ayuda a mejorar mi desempeño.</td>
                                 <td class="text-center">
-                                    <input id="question_48" type="radio" name="question_48" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_48" type="radio" name="question_48" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_48" type="radio" name="question_48" value="2">
+                                    <input id="question_48" type="radio" name="question_48" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1362,7 +1354,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_48" type="radio" name="question_48" value="0">
+                                    <input id="question_48" type="radio" name="question_48" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_48" type="radio" name="question_48" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_48" type="radio" name="question_48" value="4">
                                 </td>
                             </tr>
 
@@ -1370,15 +1370,7 @@
                                 <td class="text-center">49</td>
                                 <td>En mi centro de trabajo me pagan a tiempo mi salario.</td>
                                 <td class="text-center">
-                                    <input id="question_49" type="radio" name="question_49" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_49" type="radio" name="question_49" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_49" type="radio" name="question_49" value="2">
+                                    <input id="question_49" type="radio" name="question_49" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1386,7 +1378,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_49" type="radio" name="question_49" value="0">
+                                    <input id="question_49" type="radio" name="question_49" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_49" type="radio" name="question_49" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_49" type="radio" name="question_49" value="4">
                                 </td>
                             </tr>
 
@@ -1394,15 +1394,7 @@
                                 <td class="text-center">50</td>
                                 <td>El pago que recibo es el que merezco por el trabajo que realizo.</td>
                                 <td class="text-center">
-                                    <input id="question_50" type="radio" name="question_50" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_50" type="radio" name="question_50" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_50" type="radio" name="question_50" value="2">
+                                    <input id="question_50" type="radio" name="question_50" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1410,7 +1402,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_50" type="radio" name="question_50" value="0">
+                                    <input id="question_50" type="radio" name="question_50" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_50" type="radio" name="question_50" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_50" type="radio" name="question_50" value="4">
                                 </td>
                             </tr>
 
@@ -1418,15 +1418,7 @@
                                 <td class="text-center">51</td>
                                 <td>Si obtengo los resultados esperados en mi trabajo me recompensan o reconocen.</td>
                                 <td class="text-center">
-                                    <input id="question_51" type="radio" name="question_51" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_51" type="radio" name="question_51" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_51" type="radio" name="question_51" value="2">
+                                    <input id="question_51" type="radio" name="question_51" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1434,7 +1426,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_51" type="radio" name="question_51" value="0">
+                                    <input id="question_51" type="radio" name="question_51" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_51" type="radio" name="question_51" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_51" type="radio" name="question_51" value="4">
                                 </td>
                             </tr>
 
@@ -1442,15 +1442,7 @@
                                 <td class="text-center">52</td>
                                 <td>Las personas que hacen bien el trabajo pueden crecer laboralmente.</td>
                                 <td class="text-center">
-                                    <input id="question_52" type="radio" name="question_52" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_52" type="radio" name="question_52" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_52" type="radio" name="question_52" value="2">
+                                    <input id="question_52" type="radio" name="question_52" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1458,7 +1450,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_52" type="radio" name="question_52" value="0">
+                                    <input id="question_52" type="radio" name="question_52" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_52" type="radio" name="question_52" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_52" type="radio" name="question_52" value="4">
                                 </td>
                             </tr>
 
@@ -1466,15 +1466,7 @@
                                 <td class="text-center">53</td>
                                 <td>Considero que mi trabajo es estable.</td>
                                 <td class="text-center">
-                                    <input id="question_53" type="radio" name="question_53" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_53" type="radio" name="question_53" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_53" type="radio" name="question_53" value="2">
+                                    <input id="question_53" type="radio" name="question_53" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1482,7 +1474,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_53" type="radio" name="question_53" value="0">
+                                    <input id="question_53" type="radio" name="question_53" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_53" type="radio" name="question_53" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_53" type="radio" name="question_53" value="4">
                                 </td>
                             </tr>
 
@@ -1490,15 +1490,7 @@
                                 <td class="text-center">54</td>
                                 <td>En mi trabajo existe continua rotación de personal.</td>
                                 <td class="text-center">
-                                    <input id="question_54" type="radio" name="question_54" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_54" type="radio" name="question_54" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_54" type="radio" name="question_54" value="2">
+                                    <input id="question_54" type="radio" name="question_54" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1506,7 +1498,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_54" type="radio" name="question_54" value="0">
+                                    <input id="question_54" type="radio" name="question_54" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_54" type="radio" name="question_54" value=3>
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_54" type="radio" name="question_54" value="4">
                                 </td>
                             </tr>
 
@@ -1514,15 +1514,7 @@
                                 <td class="text-center">55</td>
                                 <td>Siento orgullo de laborar en este centro de trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_55" type="radio" name="question_55" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_55" type="radio" name="question_55" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_55" type="radio" name="question_55" value="2">
+                                    <input id="question_55" type="radio" name="question_55" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1530,7 +1522,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_55" type="radio" name="question_55" value="0">
+                                    <input id="question_55" type="radio" name="question_55" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_55" type="radio" name="question_55" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_55" type="radio" name="question_55" value="4">
                                 </td>
                             </tr>
 
@@ -1538,15 +1538,7 @@
                                 <td class="text-center">56</td>
                                 <td>Me siento comprometido con mi trabajo.</td>
                                 <td class="text-center">
-                                    <input id="question_56" type="radio" name="question_56" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_56" type="radio" name="question_56" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_56" type="radio" name="question_56" value="2">
+                                    <input id="question_56" type="radio" name="question_56" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1554,7 +1546,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_56" type="radio" name="question_56" value="0">
+                                    <input id="question_56" type="radio" name="question_56" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_56" type="radio" name="question_56" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_56" type="radio" name="question_56" value="4">
                                 </td>
                             </tr>
 
@@ -1573,15 +1573,7 @@
                                 <td class="text-center">57</td>
                                 <td>En mi trabajo puedo expresarme libremente sin interrupciones.</td>
                                 <td class="text-center">
-                                    <input id="question_57" type="radio" name="question_57" value="4">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_57" type="radio" name="question_57" value="3">
-                                </td>
-                                                                                        
-                                <td class="text-center">
-                                    <input id="question_57" type="radio" name="question_57" value="2">
+                                    <input id="question_57" type="radio" name="question_57" value="0">
                                 </td>
                                                                                         
                                 <td class="text-center">
@@ -1589,7 +1581,15 @@
                                 </td>
                                                                                         
                                 <td class="text-center">
-                                    <input id="question_57" type="radio" name="question_57" value="0">
+                                    <input id="question_57" type="radio" name="question_57" value="2">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_57" type="radio" name="question_57" value="3">
+                                </td>
+                                                                                        
+                                <td class="text-center">
+                                    <input id="question_57" type="radio" name="question_57" value="4">
                                 </td>
                             </tr>
 
