@@ -320,4 +320,20 @@ class RiskController extends Controller
 
         return $calification;
     }
+
+    public function getDerivatedStateProps() {
+      $getprom = 0 
+       
+      foreach($getprom = $key, $index){
+        [$index].getProm(props => {
+          $key += addProm($getProm);
+         })
+      }
+
+      return {
+       ...props,
+       ...getDerivatedStateProps,
+       ...$key
+      }
+    }
 }
